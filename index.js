@@ -20,7 +20,7 @@ client.on('message', message => {
             })
         }
     }
-
+    //test
 })
 
 client.login(token);

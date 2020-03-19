@@ -1,7 +1,7 @@
 {
   "name": "schreknet",
   "version": "1.0.0",
-  "description": "",
+  "description": "SchreckNET-Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeemuPulkkinen/SchreckNET-Bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/TeemuPulkkinen/SchreckNET-Bot/issues"
+  },
+  "homepage": "https://github.com/TeemuPulkkinen/SchreckNET-Bot#readme"
 }
